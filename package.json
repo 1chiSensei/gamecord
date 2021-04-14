@@ -26,6 +26,6 @@
   "devDependencies": {
     "discord.js": "^12.3.1",
     "eris": "^0.14.0",
-    "events": "^3.2.0"
+    "events": "^3.3.0"
   }
 }
