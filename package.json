@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/lazyowldev/gamecord#readme",
   "devDependencies": {
-    "discord.js": "^12.3.1",
+    "discord.js": "^12.5.3",
     "eris": "^0.14.0",
     "events": "^3.2.0"
   }
